@@ -1,4 +1,4 @@
-# Tools4ever Standard Item Library
+# Standard Item Library
 
 This is a library of Tools4ever compiled components and settings for apps.
 
